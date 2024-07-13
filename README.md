@@ -1,7 +1,9 @@
 # IKU
 silahkan tambahkan folder "img" dan "plugin" untuk logo dan eksport ke pdf
-#Silahkan mengeksplore lagi kode tersebut.
-#Indikator Kinerja Utama (IKU) untuk unit IT di universitas adalah alat penting untuk mengukur efektivitas dan efisiensi dari unit tersebut. IKU membantu memastikan bahwa unit IT berkontribusi secara optimal terhadap tujuan strategis universitas. Berikut adalah beberapa contoh IKU yang relevan untuk unit IT di universitas:
+Silahkan mengeksplore lagi kode tersebut.
+# Indikator Kinerja Utama (IKU) 
+
+untuk unit IT di universitas adalah alat penting untuk mengukur efektivitas dan efisiensi dari unit tersebut. IKU membantu memastikan bahwa unit IT berkontribusi secara optimal terhadap tujuan strategis universitas. Berikut adalah beberapa contoh IKU yang relevan untuk unit IT di universitas:
 
 1. Ketersediaan Sistem dan Infrastruktur IT
 Waktu Operasional Sistem: Persentase waktu operasional server dan jaringan tanpa downtime.
